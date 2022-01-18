@@ -1,4 +1,4 @@
-# Docker: Comados más usados y páginas de interés.
+# Docker: Comandos más usados y páginas de interés.
 
 _Acá les dejo una lista de los comandos más utilizados en **Docker** y algunas páginas de interés._
 
